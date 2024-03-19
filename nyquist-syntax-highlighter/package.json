@@ -10,12 +10,6 @@
     "Programming Languages"
   ],
   "contributes": {
-    "languages": [{
-      "id": "sal",
-      "aliases": ["Nyquist", "sal"],
-      "extensions": [".sal"],
-      "configuration": "./language-configuration.json"
-    }],
     "grammars": [{
       "language": "sal",
       "scopeName": "",
